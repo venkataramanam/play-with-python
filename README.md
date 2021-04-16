@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Vulnerabilities-27-red
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 # play-with-python
 My tryst with Python
