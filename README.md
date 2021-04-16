@@ -1,3 +1,4 @@
+https://img.shields.io/badge/Vulnerabilities-27-red
 
 # play-with-python
 My tryst with Python
